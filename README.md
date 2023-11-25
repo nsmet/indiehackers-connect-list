@@ -29,15 +29,19 @@ When adding your entry, please follow this format:
 
 - **Jane Smith**: [X.com](#) | [LinkedIn](#) | [Website](#) | Tags: Marketing, Social Media, Branding
 
-## Let's Grow Together! 💪
 
-
-## Indiehackers
-
-- **Nick Smet**: [X.com](https://twitter.com/Nsmet93) | [LinkedIn](https://www.linkedin.com/in/nick-smet-646b1a70/) | [Website](https://usequalli.com/) | Tags: Marketing, User Research, Apps
 
 ### Goal 📈
 Remember, the primary goal of this repository is to foster connections and growth within our community. Your participation is valuable, and we look forward to seeing how our network expands through this initiative.
 
 ### Questions or Suggestions?
 If you have any questions or suggestions on how to improve this repository, feel free to open an issue or contact the repository maintainers. 📝
+
+
+## Let's Grow Together! 💪
+
+
+# Indiehackers
+
+- **Nick Smet**: [X.com](https://twitter.com/Nsmet93) | [LinkedIn](https://www.linkedin.com/in/nick-smet-646b1a70/) | [Website](https://usequalli.com/) | Tags: Marketing, User Research, Apps
+
