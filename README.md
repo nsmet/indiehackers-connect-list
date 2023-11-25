@@ -10,35 +10,33 @@ This repository serves as a platform for each of us to share our professional pr
 - **LinkedIn Profile:** Let others connect with you professionally.
 - **Twitter Handle:** Share your Twitter account for more dynamic interactions.
 - **Product URL:** If you're working on a product or service, let the community know.
-- **Product Description:** A brief description of your product/service.
 - **Tags (Up to 3):** Use tags separated by a '|' symbol to categorize your product or the industry you're working in.
 
-### Example Entry
-When you don't have either of these items, just leave them out. 
-
-```
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: @YourTwitterHandle
-- Product URL: [www.yourproduct.com]
-- Product Description: Brief description of your product/service.
-- Tags: #Tag1 | #Tag2 | #Tag3
-```
-
 ## How to Contribute
-Contributing is simple and follows a standard process to ensure clarity and organization.
+To contribute to this repository:
 
-1. **Fork the Repository:** Start by forking this repository to your account. 🍴
-2. **Add Your Information:** Create a new file in the repository or add your information to an existing relevant file. Please follow the format provided above.
-3. **Submit a Pull Request:** Once you've added your information, submit a pull request to the main repository. 📬
-4. **Review Process:** Your pull request will be reviewed, and once approved, your information will be merged into the main repository.
+1. **Fork the Repository:** Start by forking this repository to your account.
+2. **Add Your Entry:** Use the format provided below to add your information. Ensure that your content is professional and appropriate.
+3. **Create a Pull Request:** Submit a pull request with your changes. Please ensure your links and information are accurate and up-to-date.
+4. **Review and Merge:** Your pull request will be reviewed and, once approved, merged into the main list.
 
-### Contribution Guidelines
-- Make sure your content is appropriate and professional.
-- Stick to the format for consistency.
-- Ensure your links and information are accurate and up-to-date.
-- All contributions are optional; share what you're comfortable with.
+### Entry Format
+When adding your entry, please follow this format:
+
+`- **Your Name**: [X.com](Your X.com URL) | [LinkedIn](Your LinkedIn URL) | [Product](Your Product URL) | Tags: Tag1, Tag2, Tag3`
+
+## Example Member Profile
+
+- **Jane Smith**: [X.com](#) | [LinkedIn](#) | [Website](#) | Tags: Marketing, Social Media, Branding
 
 ## Let's Grow Together! 💪
+
+
+## Indiehackers
+
+- **Nick Smet**: [X.com](https://twitter.com/Nsmet93) | [LinkedIn](https://www.linkedin.com/in/nick-smet-646b1a70/) | [Website](https://usequalli.com/) | Tags: Marketing, User Research, Apps
+
+### Goal 📈
 Remember, the primary goal of this repository is to foster connections and growth within our community. Your participation is valuable, and we look forward to seeing how our network expands through this initiative.
 
 ### Questions or Suggestions?
