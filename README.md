@@ -47,4 +47,5 @@ If you have any questions or suggestions on how to improve this repository, feel
 # Indiehackers
 
 - **Nick Smet**: [X.com](https://twitter.com/Nsmet93) | [LinkedIn](https://www.linkedin.com/in/nick-smet-646b1a70/) | [Website](https://usequalli.com/) | Tags: Marketing, User Research, Apps
+- **Boudy de Geer**: [X.com](https://twitter.com/boudydegeer) | [LinkedIn](https://www.linkedin.com/in/boudydegeer/) | [RapidLaunch](https://rapidlaunch.it) | Tags: FullStack, NuxtJS Boilerplate | Apps | Marketing
 
